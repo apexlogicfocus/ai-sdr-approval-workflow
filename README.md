@@ -32,7 +32,7 @@ To ensure a clean workflow and prevent duplicate outreach, the system dynamicall
 
 | Before Action | After Approval |
 | :--- | :--- |
-| ![Slack Pending](screenshots/slack-pending.png) | ![Slack Approved](screenshots/slack-approved.png) |
+| ![Slack Pending](screenshots/slack-pending.png) | ![Slack rejected](screenshots/slack-rejected.png) |
 
 > **Logic:** Once the 'Approve' or 'Reject' button is clicked, the interactive elements are removed and replaced with a permanent status log. This creates an immutable audit trail within the Slack channel.
 
